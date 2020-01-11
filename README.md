@@ -1,2 +1,0 @@
-# FormsControlReact
-Created with CodeSandbox
